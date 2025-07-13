@@ -1,9 +1,9 @@
 # bastra-game
-The console version of the card game Bastra/Basra.
+The console version of the card game Bastra.
 
 ## 🃏 Bastra
 
-**[Bastra](https://en.wikipedia.org/wiki/Bastra)** is a card game implemented in C. The main goal is to collect cards from the board by matching values or forming combinations that sum to the value of the played card.
+**[Bastra](https://en.wikipedia.org/wiki/Bastra)** is a card game implemented in C, also known as Basra or Pishti Pishpirik. The main goal is to collect cards from the board by matching values or forming combinations that sum to the value of the played card.
 
 This is a single-player game (Player vs. AI)
 
